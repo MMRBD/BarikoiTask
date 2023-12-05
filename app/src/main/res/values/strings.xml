@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BariKoiTask</string>
+    <string name="barikoi_api">bkoi_aba4dcd19f34e638f43d72fd857586e72927c07d7e21b7102cc9757cdd7ce5d6</string>
+
+    //Network Error
+    <string name="failure_bad_request">Bad Request.</string>
+    <string name="failure_can_not_connect_to_the_server">Can not connect to the server.</string>
+    <string name="failure_forbidden_request">Forbidden Request.</string>
+    <string name="failure_internal_server_error">Internal server error.</string>
+    <string name="failure_method_not_allowed">Method not allowed.</string>
+    <string name="failure_no_internet_available">No internet available.</string>
+    <string name="failure_not_exist_in_cache">Not exist in cache.</string>
+    <string name="failure_not_found">Not found.</string>
+    <string name="failure_too_many_request">Too many request.</string>
+    <string name="failure_unauthorized_error">Unauthorized error.</string>
+
+    <string name="failure_failed_to_cache">Failed to cache.</string>
+    <string name="near_by_bank">Near By Bank</string>
+</resources>
